@@ -1,6 +1,6 @@
-fastapi
-uvicorn
-requests
+sounddevice
+scipy
+grop
 python-dotenv
-groq
-httpx
+chromadb
+sentence_transformers
